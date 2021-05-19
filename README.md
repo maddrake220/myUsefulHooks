@@ -1,6 +1,6 @@
 # hook components 
   - useDeviceOrientation 
-    기기의 기울임, 방향에 따라 alpha, beta, gamma 값을 가져온다.
+    : 기기의 기울임, 방향에 따라 alpha, beta, gamma 값을 가져온다.
   - useFavicon
     Favicon 설정
   - useGeolocation
